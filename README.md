@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  ![Inference speed test on CPU](https://github.com/Max-Chenb/A-Net/blob/main/images/inference_speed_cpu.png)
+https://github.com/Max-Chenb/A-Net/blob/main/images/inference_speed_cpu.png
 </div>
 
 
