@@ -5,19 +5,16 @@
 
 
 ![The architecture of A-Net](https://github.com/Max-Chenb/A-Net/blob/main/images/architecture.png)  
-
 <div align="center">
 The architecture of A-Net
 </div>
 
 ![111](https://github.com/Max-Chenb/A-Net/blob/main/images/results_neu.png)  
-
 <div align="center">
 Results on NEU dataset
 </div>
 
 ![111](https://github.com/Max-Chenb/A-Net/blob/main/images/inference_speed_cpu.png)
-
 <div align="center">
 Inference speed test on CPU
 </div>
