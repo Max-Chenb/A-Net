@@ -16,7 +16,7 @@ The architecture of A-Net
 Results on NEU dataset
 </div>
 
-![111](https://github.com/Max-Chenb/A-Net/blob/main/images/inference_speed_cpu.png)  
+<center>![111](https://github.com/Max-Chenb/A-Net/blob/main/images/inference_speed_cpu.png)  </center>
 
 <div align="center">
 Inference speed test on CPU
