@@ -6,4 +6,5 @@
 **The architecture of A-Net:**
 ![The architecture of A-Net](https://github.com/Max-Chenb/A-Net/blob/main/images/architecture.png)
 
-
+**Inference speed test on CPU:**
+![111](https://github.com/Max-Chenb/A-Net/blob/main/images/inference_speed_cpu.png)
