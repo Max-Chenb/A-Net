@@ -15,3 +15,9 @@ The architecture of A-Net
 <div align="center">
 Inference speed test on CPU
 </div>
+
+![111](https://github.com/Max-Chenb/A-Net/blob/main/images/inference_speed_cpu.png)  
+
+<div align="center">
+Inference speed test on CPU
+</div>
